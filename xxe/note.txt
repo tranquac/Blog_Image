@@ -1,0 +1,4 @@
+file:///C:/Users/Admin/OneDrive%20-%20Linux%20Team%20Vi%E1%BB%87t%20Nam%20Academy/M%C3%A1y%20t%C3%ADnh/All%20of%20Uncle%20Rat's%20Notes/Courses%2015cddb7f3eee43fbb0978f8d2cdf0f94/Vulnerability%20types%20d6487b7204244f159482be2dfb025fea/XXE%20dbfdda26a21f48c7b1056cb7693481bb.html
+https://scottc130.medium.com/understanding-xxe-vulnerabilities-7e389d3972c2
+https://doddsecurity.com/312/xml-external-entity-injection-xxe-in-opencats-applicant-tracking-system/
+
